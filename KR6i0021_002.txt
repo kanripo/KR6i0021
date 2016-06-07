@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:00.427511
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:27
 #+TITLE: 佛說不思議功德諸佛所護念經
 #+PROPERTY: CBETA_ID T14n0445
 #+PROPERTY: ID KR6i0021
